@@ -1,4 +1,4 @@
-![Julia khalina](https://user-images.githubusercontent.com/36698832/191606390-edd66237-f078-422e-8674-b8e9bf89e41f.png)
+![Julia khalina (1)](https://user-images.githubusercontent.com/36698832/191607825-05803da2-7cfd-441f-83d4-45dc5b36853a.png)
 <br></br>
 <div id="header">
   <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="100"/>
