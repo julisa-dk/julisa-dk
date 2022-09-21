@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="100"/>
 </div>
 
-<h1> Hi there 👋 </h1>
+<h1> Hi, I'm Julia 👋 :woman_technologist:</h1>
 
-### :woman_technologist: About Me :
-My name is Julia and I'm a Full-stack developer eager to create excellent products and enjoy talking about them and explaining how they work. 
+### About Me :
+I'm a Full-stack developer in Denmark :denmark: eager to create excellent products and enjoy talking about them and explaining how they work. I enjoy working with technologies like ReactJS, creating API, and GraphQL. My interest in tech led me to the community "Girls in IT" for women and developers in Denmark.
 <p><h4>I do what I love. And love what I do.</h4></p>
 
 - :globe_with_meridians: I passionate about working and managine with Data
