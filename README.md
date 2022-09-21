@@ -1,8 +1,9 @@
-<div id="header" align="center">
+<h1 align="center"> Hi, I'm Julia
+<div id="header">
   <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="100"/>
 </div>
 
-<h1> Hi, I'm Julia 👋 :woman_technologist:</h1>
+ </h1>
 
 ### About Me :
 I'm a Full-stack developer in Denmark :denmark: eager to create excellent products and enjoy talking about them and explaining how they work. I enjoy working with technologies like ReactJS, creating API, and GraphQL. My interest in tech led me to the community "Girls in IT" for women and developers in Denmark.
