@@ -1,4 +1,5 @@
-<h1 align="center"> Hi, I'm Julia
+<h1 align="center"> Hi, I'm Julia 
+<br></br>
 <div id="header">
   <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="100"/>
 </div>
