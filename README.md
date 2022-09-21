@@ -1,3 +1,4 @@
+![Design uden navn](https://user-images.githubusercontent.com/36698832/191601967-477144e5-7082-42c8-9da0-4f6b1bd88ca9.png)
 <h1 align="center"> Hi, I'm Julia 
 <br></br>
 <div id="header">
@@ -16,7 +17,6 @@ I'm a Full-stack developer in Denmark :denmark: eager to create excellent produc
 
 - :woman_technologist: I'm currently working on Python project
 - I like to drink the coffee :coffee:
-
 - In my free time, I draw in the Procreate :crayon: my pictures or work in my garden :house_with_garden:
 - Speak English :us: and Danish :denmark:
 
