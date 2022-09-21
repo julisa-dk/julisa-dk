@@ -1,10 +1,9 @@
-![Design uden navn](https://user-images.githubusercontent.com/36698832/191601967-477144e5-7082-42c8-9da0-4f6b1bd88ca9.png)
-<h1 align="center"> Hi, I'm Julia 
+![Julia khalina](https://user-images.githubusercontent.com/36698832/191606390-edd66237-f078-422e-8674-b8e9bf89e41f.png)
 <br></br>
 <div id="header">
   <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="100"/>
 </div>
- </h1>
+ 
 <h3 align="center"> Full-stack developer | Data Engineer </h3>
 
 ### About Me :
