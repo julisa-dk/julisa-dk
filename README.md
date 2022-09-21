@@ -1,10 +1,10 @@
-![Julia khalina (1)](https://user-images.githubusercontent.com/36698832/191607825-05803da2-7cfd-441f-83d4-45dc5b36853a.png)
-<br></br>
-<div id="header">
-  <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="100"/>
-</div>
+![Julia khalina (2)](https://user-images.githubusercontent.com/36698832/191609738-8fecfcf3-5c14-47f5-95ca-9d2e68f9f172.png)
  
 <h3 align="center"> Full-stack developer | Data Engineer </h3>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="100"/>
+</div>
 
 ### About Me :
 I'm a Full-stack developer in Denmark :denmark: eager to create excellent products and enjoy talking about them and explaining how they work. I enjoy working with technologies like ReactJS, creating API, and GraphQL, Databases. At the same time, I am passionate about working and managing Data and ETL/ELT processes. My interest in tech led me to the community "Girls in IT" for female developers in Denmark. And I believe that the only way to stay relevant is to keep learning, so all time I'm open to new and strive to pick up new technologies that I can use in my current projects. 
