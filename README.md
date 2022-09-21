@@ -35,8 +35,6 @@ My name is Julia and I'm a Full-stack developer eager to create excellent produc
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[youtube].svg" />
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[react].svg" />
 </div>
 
 ### :fire: My Stats :
