@@ -15,11 +15,12 @@ I'm a Full-stack developer in Denmark :denmark: eager to create excellent produc
 ### <br></br><h4>Fun fucts:</h5>
 
 - :woman_technologist: I'm currently working on Python project
-- I like to drink the coffee :coffee:
-- In my free time, I draw in the Procreate :crayon: my pictures or work in my garden :house_with_garden:
+- I like to drink coffee :coffee:
+- :see_no_evil: I'm mum of to :family_man_woman_girl_boy:
+- In my free time, I draw pictures in the Procreate :crayon: or hygge in my lovely garden :house_with_garden:
 - Speak English :us: and Danish :denmark:
 
-- You can reach me: [![Linkedin Badge](https://img.shields.io/badge/-julia.khalina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-khalina-67340510a/?locale=en_US)
+- You can reach me: [![Linkedin Badge](https://img.shields.io/badge/-Julia_Khalina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-khalina-67340510a/?locale=en_US)
 
 ### <br></br> My Digitals Garden :deciduous_tree: : 
 <div>
